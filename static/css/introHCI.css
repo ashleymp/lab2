@@ -1,3 +1,24 @@
+.project p {
+     font-variant: small-caps;
+}
+
+#project1 {
+     font-variant: small-caps;
+}
+.head {
+     margin-left: 40px;
+}
+
+body {
+     background-color: #F0F0FD;
+}
+
+.project {
+     margin-left: 20px;
+     padding: 20px;
+     width: 575px;
+     background-color: #8872A1;
+}
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
@@ -13,7 +34,7 @@
    the CSS to the page. feel free to remove it once the link is working. */
 body {
      border: 1px dotted gray;
-     padding: 20px;
+     padding: 30px;
 }
 
 .jumbotron {
@@ -23,7 +44,7 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url("http://cdn3.collective-evolution.com/assets/uploads/2014/06/sound_of_space.jpg");
      opacity: 0.2;
      top: 0;
      left: 0;
